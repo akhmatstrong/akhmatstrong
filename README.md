@@ -2,7 +2,7 @@
 
 <!-- 🧰 ✅ ⚠ 🚀 TypeScript ⚛️ React 🔁 Redux 🌐JavaScript-->
 
-## ✨Greerings to my ![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)✨
+## ✨Greetings to my ![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)✨
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⠾⠿⠿⠯⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣾⠛⠁⠀⠀⠀⠀⠀⠀⠈⢻⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠿⠁⠀⠀⠀⢀⣤⣾⣟⣛⣛⣶⣬⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -47,5 +47,8 @@
 > Available ranks are
 
 > [!WARNING]\
+> By default,
+
+> [!TIP]\
 > By default,
 --!>
